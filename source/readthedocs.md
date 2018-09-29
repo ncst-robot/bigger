@@ -1,6 +1,6 @@
 # Readthedocs + Github 搭建文档
 
-## 环境配置
+## 环境配置Prepare
 
 > 要求已经具备下列工具：
 >
@@ -44,7 +44,7 @@ $ make html
 
 - 参考：[In Markdown](https://docs.readthedocs.io/en/latest/getting_started.html#in-markdown)
 
-## 将本地修改提交到远程仓库
+## 将本地修改提交到remote仓库
 
 首先在根目录下（也就是和build，source等文件夹在同一级目录）建立一个`.gitignore`文件，其内容如下：
 
@@ -120,11 +120,11 @@ build/
 
 接下来，找到`project settings`>>`Integrations`>>`GitHub incoming webhook`你会进入到下图的页面：
 
-![Webhooks](webhooks.png)
+![Webhooks](readthedocs/webhooks.png)
 
 将红色框住的地址复制，粘贴到github的Webhooks中。操作过程是：打开代码仓库>>`Settings`>>`Webhooks`>>`Add webhooks`>>`Payload URL`，如下图：
 
-![Github Add Webhooks](webhooks-github.png)
+![Github Add Webhooks](readthedocs/webhooks-github.png)
 
 接下来你就可以向这个仓库添加代码，然后Readthedocs就会有相应的更新。
 
@@ -140,7 +140,7 @@ html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 ```
 
-## 理解书写格式和文件组织方式
+## 理解rst格式和文件组织方式
 
 - [理解rst文件](https://blog.csdn.net/wangxinhe2006/article/details/80272867)
 
