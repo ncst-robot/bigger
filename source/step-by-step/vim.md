@@ -1,8 +1,4 @@
----
-title: 配置VIM (Windows)
-date: 2018-8-21 15:09:38
-tags: 工具使用说明
----
+# 配置VIM (Windows)
 
 ## 软件介绍
 

@@ -1,8 +1,4 @@
----
-title: 值得学习的C语言开源项目
-date: 2018-10-9 17:12:50
-tags: [C++, 重要参考]
----
+# 值得学习的C语言开源项目
 
 转载注明来源：https://www.cnblogs.com/lidabo/p/5514155.html
 

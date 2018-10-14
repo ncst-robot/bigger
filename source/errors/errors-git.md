@@ -1,8 +1,4 @@
----
-title: 解惑 Git
-date: 2018-9-22 16:40:53
-tags: 故障解决
----
+# 解惑 Git
 
 ## Permission denied (publickey).
 

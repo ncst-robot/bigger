@@ -1,8 +1,4 @@
----
-title: 半壶纱
-date: 2018-9-22 22:51:58
-tags: 休闲娱乐
----
+# 半壶纱
 
 <video controls="" name="media" style="width:100%; height: 10px;"><source src="http://music.163.com/song/media/outer/url?id=28793140.mp3" type="audio/mpeg">
 

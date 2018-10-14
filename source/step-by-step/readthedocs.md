@@ -1,8 +1,4 @@
----
-title: Readthedocs+Github搭建文档
-date: 2018-9-29 21:17:04
-tags: 工具使用说明
----
+# Readthedocs+Github搭建文档
 
 ## 环境配置
 

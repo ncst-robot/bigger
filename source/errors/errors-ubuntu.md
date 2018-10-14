@@ -1,9 +1,4 @@
----
-title: 解惑 Ubuntu
-date: 2018-8-22 17:49:06
-tags: 故障解决
----
-
+# Ubuntu常见错误及其解决方案
 
 ## pip
 

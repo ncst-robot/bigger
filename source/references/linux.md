@@ -1,8 +1,4 @@
----
-title: Linux 参考
-date: 2018-9-6 23:24:14
-tags: [Linux,重要参考]
----
+# Linux 参考
 
 ## 目录结构
 

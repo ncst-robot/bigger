@@ -1,8 +1,4 @@
----
-title: 机器学习开源项目
-date: 2018-8-30 09:35:12
-tags: [人工智能,重要参考]
----
+# 机器学习开源项目
 
 ## 开源机器学习项目 30 个：[原文地址](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 

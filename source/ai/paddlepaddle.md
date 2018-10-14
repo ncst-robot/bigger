@@ -4,6 +4,8 @@ date: 2018-8-21 15:31:50
 tags: [算法框架,人工智能]
 ---
 
+# 深度学习框架之PaddlePaddle
+
 ## 学习使用PaddlePaddle
 
 > 为什么要选择PaddlePaddle？

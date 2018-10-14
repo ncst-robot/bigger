@@ -1,8 +1,4 @@
----
-title: 配置wordpress
-date: 2018-8-21 15:08:40
-tags: 工具使用说明
----
+# 配置wordpress
 
 [安装教程](http://codex.wordpress.org.cn/%E5%AE%89%E8%A3%85_WordPress)
 

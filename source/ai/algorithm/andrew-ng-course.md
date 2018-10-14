@@ -1,8 +1,4 @@
----
-title: Mechine Learning By Andrew Ng
-date: 2018-8-21 15:28:21
-tags: [人工智能,算法详解]
----
+# Mechine Learning By Andrew Ng
 
 ## Basic concepts
 
