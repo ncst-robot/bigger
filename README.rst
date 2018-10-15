@@ -8,8 +8,6 @@
 ^^^^^^^^^^^^^^^^
 
 
-`如何使用 <https://github.com/ncst-robot/bigger/wiki/>`_
------------------------------------------------------------------------------------
+* `快速开始 <https://github.com/ncst-robot/bigger/wiki/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E>`_
 
-`遇到问题找人解决 <https://github.com/ncst-robot/bigger/issues/new>`_
------------------------------------------------------------------------------------
+* `寻求帮助 <https://github.com/ncst-robot/bigger/issues/new>`_
