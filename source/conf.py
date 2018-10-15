@@ -46,18 +46,18 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = '认知机器人实验室' 
-copyright = '2018, 认知机器人实验室'
-author = '认知机器人实验室'
+project = u'认知机器人实验室' 
+copyright = u'2018, 认知机器人实验室'
+author = u'认知机器人实验室'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '1.0'
+version = 'v 1.0'
 # The full version, including alpha/beta/rc tags.
-release = '1.0.0'
+release = '1.0'
 
 exclude_patterns = []
 
@@ -120,7 +120,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'NCST-Robot', 'NCST-Robot Documentation',
-     author, 'NCST-Robot', '认知机器人实验室',
+     author, 'NCST-Robot', u'认知机器人实验室',
      'Miscellaneous'),
 ]
 
