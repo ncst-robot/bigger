@@ -46,9 +46,9 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'big88' 
-copyright = '2018, ncst-robot'
-author = 'ncst-robot'
+project = '认知机器人实验室' 
+copyright = '2018, 认知机器人实验室'
+author = '认知机器人实验室'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -66,7 +66,7 @@ html_theme = 'default'
 html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'big88doc'
+htmlhelp_basename = 'Mannul Doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -96,8 +96,8 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'big88.tex', 'big88 Documentation',
-     'ncst-robot', 'howto'),
+    (master_doc, 'NCST-Robot.tex', 'NCST-Robot Documentation',
+     'NCST-Robot', 'howto'),
 ]
 
 # -- Options for manual page output ---------------------------------------
@@ -105,7 +105,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'big88', 'big88 Documentation',
+    (master_doc, 'NCST-Robot', 'NCST-Robot Documentation',
      [author], 1)
 ]
 
@@ -119,8 +119,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'big88', 'big88 Documentation',
-     author, 'big88', '认知机器人实验室',
+    (master_doc, 'NCST-Robot', 'NCST-Robot Documentation',
+     author, 'NCST-Robot', '认知机器人实验室',
      'Miscellaneous'),
 ]
 
