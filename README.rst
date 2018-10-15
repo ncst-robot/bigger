@@ -13,24 +13,16 @@
 
 1. 下载并安装 Python 3.7.0 `64位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64.exe>`_ | `32位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2.exe>`_ (Windows自带pip)
 #. 下载并安装 `git <https://git-scm.com/downloads/>`_ ，安装过程一路Next就可以。
-#. 下载并安装 `git <https://git-scm.com/downloads/>`_
 #. 克隆仓库 ``git clone https://github.com/ncst-robot/bigger.git``
-#. 右击 ``peizhi`` 用记事本打开
+#. 打开记事本,将 ``peizhi.bat`` 拖进记事本
 #. 修改YourEmailAddress为你的github注册邮箱，然后，修改YourName为你的github用户名
-#. 右击 ``submit`` 用记事本打开
+#. 打开记事本,将 ``submit.bat`` 拖进记事本
 #. 修改YourName为你的github用户名
-#. 配置环境：双击 ``peizhi.bat``
-#. 如果权限不足，则运行 ``runas /user:administrators cmd``
+#. 配置环境：右击以管理员身份运行 ``peizhi.bat``
 #. 效果预览：在资源管理器的地址栏中输入cmd，然后输入 ``make html`` 回车
 #. 打开 build 文件夹，找到 index.html，双击打开
 #. 如果感觉效果可以的话提交你的修改
 #. 提交修改：双击 ``submit.bat``
-#. 配置环境：双击 ``peizhi``
-#. 效果预览：在资源管理器的地址栏中输入cmd，然后输入 ``make html`` 回车
-#. 打开 build 文件夹，找到 index.html，双击打开
-#. 如果感觉效果可以的话提交你的修改
-#. 提交修改：双击 ``submit``
->>>>>>> a042fcef1c48c0d377522e1ad2ceec995dde3790
 
 第二步 熟悉reStructuredText书写语法
 --------------------------------------------
@@ -46,6 +38,9 @@
 --------------------------------------------
 
 1. 修改文件：打开 source 文件夹，修改你想要修改的文件
-#. 修改文件：打开 source 文件夹，修改对应的文件
 #. 需要注意在 index.rst 中添加你的修改路径
 #. 提交修改：双击 submit.bat
+
+>>> 前两步工作一旦完成，就不需要再次修改。之后只需要修改第三步。
+
+>>> 警告: 除了 source 的文件可以修改外，其他位置的文件不要修改，否则可能会引起致命错误。
