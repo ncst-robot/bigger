@@ -20,7 +20,7 @@
 #. 配置环境：cmd中输入 ``configure`` 
 #. 效果预览：cmd中输入 ``make html`` 回车，然后，打开 build 文件夹，找到 index.html，双击打开即可看到效果
 #. 提交修改：cmd中输入 ``submit``
-#. ``在线查看效果 <https://bigger.readthedocs.io/en/latest/index.html>``_
+#. `在线查看效果 <https://bigger.readthedocs.io/en/latest/index.html>`_
 
 第二步 熟悉reStructuredText书写语法
 --------------------------------------------
