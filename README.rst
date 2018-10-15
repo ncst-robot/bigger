@@ -14,7 +14,7 @@
 1. 下载并安装 Python 3.7.0 `64位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64.exe>`_ | `32位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2.exe>`_ (Windows自带pip，注意安装的时候添加环境变量)
 #. 下载并安装 `git <https://git-scm.com/downloads/>`_ ，一路Next。
 #. 克隆仓库 ``git clone https://github.com/ncst-robot/bigger.git``
-#. 将 ``peizhi.bat`` 用记事本打开，修改YourEmailAddress为你的github注册邮箱，然后，修改YourName为你的github用户名
+#. 将 ``configure.bat`` 用记事本打开，修改YourEmailAddress为你的github注册邮箱，然后，修改YourName为你的github用户名
 #. 将 ``submit.bat`` 用记事本打开，修改YourName为你的github用户名
 #. Win + R 输入 cmd ，然后 cd 到 bigger 目录
 #. 配置环境：cmd中输入 ``configure`` 
