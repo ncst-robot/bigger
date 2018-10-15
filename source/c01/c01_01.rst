@@ -1,0 +1,67 @@
+共建知识文档
+^^^^^^^^^^^^^^^^
+
+
+第一步 配置环境
+-------------------
+
+1. 下载并安装 Python 3.7.0 `64位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2-amd64.exe>`_ | `32位 <https://www.python.org/ftp/python/3.7.1/python-3.7.1rc2.exe>`_ (Windows自带pip)
+#. 下载并安装 `git <https://git-scm.com/downloads/>`_
+#. 安装主题： ``pip install sphinx`` （ `镜像源 <https://www.thethomason.cn/2018/09/02/prog-lang/python/python-ref/>`_ ）
+#. 创建一个用来存放这个项目的文件夹，在这个路径下打开命令行
+#. 搭建快速开始 ``sphinx-quickstart``
+#. 接下来的步骤中在只需要填写基本信息，其他保持默认就可以了
+#. 修改conf.py
+#. 打开source/index.rst文件并修改
+#. 效果预览： ``make html``
+#. 使用Markdown： ``pip install recommonmark``
+
+* *使用下面的代码快速搭建配置环境*
+
+ .. code-block:: cmd
+    
+	pip install sphinx recommonmark sphinx-autobuild sphinx_rtd_theme
+	
+	mkdir ncst-robot
+	
+	cd ncst-robot
+	
+	sphinx-quickstart
+	
+	mkdir docs
+	
+	cd docs
+	
+
+第二步 熟悉Git操作流程
+-------------------------
+
+1. 在GitHub创建一个仓库（文件夹）
+#. 克隆文件夹（下载）
+#. 进入到文件夹
+#. 修改文件,并保存
+#. 将保存提交到本地缓存（add）
+#. 将本地缓存提交到本地仓库（commit）
+#. 将本地仓库和远程仓库同步（pull）
+#. 将本地仓库提交到远程仓库（push）
+
+* *使用下面的代码快速搭建配置环境*
+
+ .. code-block:: cmd
+    
+	git add .
+	
+	git commit -m "YourName"
+	
+	git pull
+	
+	git push
+
+第三步 熟悉reStructuredText书写语法
+
+1. `基本格式说明 <https://github.com/seayxu/CheatSheet/blob/master/files/reStructuredText-Quick-Syntax.md>`_
+#. `格式说明（英文较全）`_
+#. `在线编辑器`__
+
+.. _`格式说明（英文较全）`: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+.. __: http://rst.ninjs.org/#

@@ -1,12 +1,19 @@
-NCST-Robot
-====================================
-Can't support Chinese
+.. python3-cookbook documentation master file, created by
+   sphinx-quickstart on Tue Aug 19 03:21:45 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+================================================
+认知机器人实验室
+================================================
+
+Contents:
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :maxdepth: 2
+   :glob:
    
-   readthedocs
-   part-hardware/index
-   part-software/index
-
+   preface
+   chapters/*
+   aboutme
+   roadmap
