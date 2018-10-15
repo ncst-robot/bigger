@@ -1,7 +1,4 @@
-git add .
-	
+git add .	
 git commit -m "YourName"
-	
-git pull
-	
+git pull	
 git push
