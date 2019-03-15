@@ -1,4 +1,4 @@
 git add .	
-git commit -m "YourName"
+git commit -m "toooney"
 git pull	
 git push
